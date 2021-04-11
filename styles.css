@@ -1,3 +1,35 @@
-body 
-{background-color: blueviolet;
+body {
+    background-color: rgb(25, 7, 43);}
+ 
+img {
+    border-radius: 50%;
+border-style: solid;color: rgb(22, 222, 39);align-items: center;size: initial; }
+
+#main {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;
 }
+
+#sub1 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;
+}
+
+#sub2 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;
+}
+
+#sub3 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;
+}
+
+#sub4 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;
+}
+
+#sub5 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;
+}
+
+#sub6 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around; 
+}
+
+p {color: rgb(27, 233, 237);
+}
+
+#link {color: blueviolet;}
+    
+abbr {color: blueviolet;}
+
