@@ -1,61 +1,19 @@
 body {
     background-color: rgb(25, 7, 43);}
  
-img {
-    border-radius: 50%;
-border-style: solid;color: rgb(22, 222, 39);align-items: center;size: initial; }
-
-#main {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;
-}
-
-#sub1 {font: size 3px ;color: rgb(22, 222, 22); padding-left: 3%;
-} 
-
-
-/* #sub1 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around; padding: 3%;
-} */
-
-#sub2 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 35%; 
-}
-
-/* #sub2 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around; padding: 6%;
-} */
-
-#sub3 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 6%;
-}
-
-/* #sub3 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around; padding: 9%;
-} */
-
-#sub4 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 10%;
-}
-
-/* #sub4 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around; padding: 4%;
-} */
-
-#sub5 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 15%;
-}
-
-/* #sub5 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around; padding: 7.5%;
-} */
-
-#sub6 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 30%;
-}
-
-/* #sub6 {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around; padding: 30%;
-} */
-
-p {color: rgb(27, 233, 237);padding-left: 6%;
-}
-
+img {border-radius: 50%;
+border-style: solid;color: rgb(22, 222, 39);align-items: center;size: initial;}
+#main {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;}
+#sub1 {font: size 3px ;color: rgb(22, 222, 22); padding-left: 3%;} 
+#sub2 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 35%; }
+#sub3 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 6%;}
+#sub4 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 10%;}
+#sub5 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 15%;}
+#sub6 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 30%;}
+p {color: rgb(27, 233, 237);padding-left: 6%;}
 #link {color: blueviolet;}
-
 a {color: blueviolet;}
-
 #about {padding-left: 15%;}
-    
 abbr {color: blueviolet;}
-
-footer {font: size 3px ;color: rgb(22, 222, 22)
-
-}
+footer {font: size 3px ;color: rgb(22, 222, 22)}
+#sub7 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 7%;}
