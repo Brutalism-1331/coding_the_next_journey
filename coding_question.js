@@ -2,9 +2,9 @@
 var question = confirm ("Do you know how to code?");
 var answer = alert
 
-if (question) {
+if (question) { true (answer) = 'Contact Us!';
     
-} else {
+} else {(answer) = 'We can help you learn!';
     
 }
 
