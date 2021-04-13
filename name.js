@@ -3,10 +3,8 @@
 var person = prompt ("What is your name?");  
 var greeting;
 
-if (person) 
-{ greeting = 'Hello ' + person + '!' ; }
-else if (person = 0) {greeting = "Hello" + "Human" + "!"; }
-
+if (person) { greeting = 'Hello ' + person + '!' ; }
+else {greeting = "Hello " + "Human" + "!"; }
 document.write ('<h3>' + greeting + '</h3>');
 
 
