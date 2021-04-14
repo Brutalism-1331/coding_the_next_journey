@@ -1,3 +1,7 @@
+    // Display welcome greeting 
+    
+    function helloGreeting() {
+        
     var today = new Date();
     var hourNow = today.getHours();
     var greeting;
@@ -11,5 +15,7 @@
         } else {
             greeting = 'What Time Is It! ';
         }
-        document.write ('<h3>' + greeting + '</h3>');
 
+        return '<h3>' + greeting + '</h3>';
+    
+    }

@@ -1,20 +1,38 @@
 body {
     background-color: rgb(25, 7, 43);}
- 
+
+
 img {border-radius: 50%;
 border-style: solid;color: rgb(22, 222, 39);align-items: center;size: initial;}
+
+#welcome {font: size 3px ;color: rgb(22, 222, 22);padding-left: 30%;}
+
 #main {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;}
+
 #sub1 {font: size 3px ;color: rgb(22, 222, 22); padding-left: 3%;} 
+
 #sub2 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 35%; }
+
 #sub3 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 6%;}
+
 #sub4 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 10%;}
+
 #sub5 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 15%;}
+
 #sub6 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 30%;}
+
 p {color: rgb(27, 233, 237);padding-left: 6%;}
+
 #link {color: blueviolet;}
+
 a {color: blueviolet;}
+
 #about {padding-left: 15%;}
+
 abbr {color: blueviolet;}
+
 footer {font: size 3px ;color: rgb(22, 222, 22)}
+
 #sub7 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 7%;}
+
 h3 {font: size 3px ;color: rgb(22, 222, 22);padding-left: 3%;}

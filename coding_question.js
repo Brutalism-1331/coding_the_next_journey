@@ -1,22 +1,20 @@
 // Asking if person knows how to code to see if they want a job.
-var question = confirm ("Do you know how to code?");
-var answer = alert
 
-if (question) { true (answer) = 'Contact Us!';
+function doYouKnowHowToCode() {
     
-} else {(answer) = 'We can help you learn!';
-    
+var question = confirm ("Do you know how to code?");
+var answer = question
+
+if (question == true) { 
+    answer = " Great Contact Us (604-333-2222!"
+}
+else {
+    answer = " We Can Help You Learn (604)-333-2222! ";
+}
+
+return '<h3>' + answer + '</h3>';
+
 }
 
 
-
-
-
-// var person = prompt ("What is your name?");  
-// var greeting;
-
-// if (person) { greeting = 'Hello ' + person + '!' ; }
-
-// else {greeting = "Hello " + "Human" + "!"; }
-// document.write ('<h3>' + greeting + '</h3>');
 

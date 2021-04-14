@@ -1,12 +1,29 @@
 // This code should ask for name input and print Hello + input below top headding of page
 
-var person = prompt ("What is your name?");  
-var greeting;
+function userName () {
+    
+    var person = prompt ("What is your name?");  
+    var greeting;
 
-if (person) { greeting = 'Hello ' + person + '!' ; }
-else {greeting = "Hello " + "Human" + "!"; }
-document.write ('<h3>' + greeting + '</h3>');
+    if (person !== '') { 
+        greeting = 'Hello ' + person + '!' ; 
+    }
 
+    else {
+        greeting = "Hello " + "Human" + "!";
+    }
+
+    while (person === null) 
+           {person = prompt ("What Is Your Name")
+        greeting = "Hello " + person + "!";
+        }
+
+
+    //else if (person = null)
+    //     greeting = "Hello " + "Human" + "!";
+  
+    return '<h3>' + greeting + '</h3>';
+}
 
 
 
