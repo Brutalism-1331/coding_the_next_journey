@@ -10,12 +10,12 @@ function userName () {
     }
 
     else {
-        greeting = "Hello " + "Human" + "!";
+        greeting = "Hello  Human!";
     }
 
     while (person === null) 
            {person = prompt ("What Is Your Name")
-        greeting = "Hello " + person + "!";
+        greeting = "Hello Human!";
         }
 
 

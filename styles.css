@@ -5,7 +5,7 @@ body {
 img {border-radius: 50%;
 border-style: solid;color: rgb(22, 222, 39);align-items: center;size: initial;}
 
-#welcome {font: size 3px ;color: rgb(22, 222, 22);padding-left: 30%;}
+/* #welcome {font: size 3px ;color: rgb(22, 222, 22);padding-left: 30%;} */
 
 #main {font: size 3px ;color: rgb(22, 222, 22);align-content: space-around;}
 
