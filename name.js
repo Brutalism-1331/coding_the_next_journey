@@ -15,9 +15,10 @@ function userName () {
 
     while (person === null) 
            {person = prompt ("What Is Your Name")
-        greeting = "Hello Human!";
+        greeting = "Hello " + person + "!";
         }
 
+        
 
     //else if (person = null)
     //     greeting = "Hello " + "Human" + "!";
